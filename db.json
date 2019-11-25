@@ -4,8 +4,10 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-  "Users/authorize": {
+  "Users": {
+    "authorize": {
     "access_token": "YOLO"
+    }
   },
   "PatientResults/find": {
   "TotalResults": 3,
