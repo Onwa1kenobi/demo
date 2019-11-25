@@ -6,5 +6,10 @@
   ],
   "Users/authorize": {
     "access_token": "YOLO"
+  },
+  "Users": {
+    "authorize": {
+    "access_token": "YOLO"
+    }
   }
 }
